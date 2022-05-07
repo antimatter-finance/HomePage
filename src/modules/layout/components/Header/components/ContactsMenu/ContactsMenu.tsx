@@ -67,7 +67,7 @@ export const ContactsMenu = ({ linkClass }: ContactsMenuProps) => {
             Github
           </>
         ),
-        href: 'https://github.com/antimatter-finance/',
+        href: 'https://github.com/antimatter-dao',
       },
       {
         label: (

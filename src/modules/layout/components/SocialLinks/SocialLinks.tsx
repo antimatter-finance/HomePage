@@ -20,7 +20,7 @@ export const SocialLinks = ({ className }: ISocialLinks) => {
       {
         title: 'Github',
         icon: GithubIcon,
-        href: 'https://github.com/antimatter-finance/',
+        href: 'https://github.com/antimatter-dao',
       },
       {
         title: 'Medium',
