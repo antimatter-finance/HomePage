@@ -43,7 +43,7 @@ const BackedByCore = () => {
 
   const names = [
     ['tekin-salimi.png', 'https://twitter.com/tekinsalimi?s=21'],
-    ['do-kwon.png', 'https://twitter.com/stablekwon?s=21'],
+    // ['do-kwon.png', 'https://twitter.com/stablekwon?s=21'],
     ['justin-sun.png', 'https://twitter.com/justinsuntron?s=21'],
     ['brian-lee.png', 'https://twitter.com/brian741'],
   ];

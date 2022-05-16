@@ -11,7 +11,7 @@ export const StrategicPartner = () => {
 
   const logos = [
     'arbitrum.png',
-    'terra.png',
+    // 'terra.png',
     'umbrella.svg',
     'elrond.svg',
     'impossible-finance.svg',

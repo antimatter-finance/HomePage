@@ -21,11 +21,11 @@ const posts = [
     url: `https://www.marketwatch.com/press-release/antimatter-perpetrual-options-launches-on-eth-arbitrum-avax-terra-bsc-more-2021-10-08`,
     postBy: 'marketWatch.png',
     title:
-      'AntiMatter Perpetrual Options Launches on ETH, Arbitrum, AVAX, Terra, BSC, & More',
+      'AntiMatter Perpetrual Options Launches on ETH, Arbitrum, AVAX, BSC, & More',
     buttonColor: 'yellow',
     date: 'Oct 8, 2021',
     synopsis:
-      'AntiMatter, a next generation decentralized financial (DeFi) derivative platform, has announced that its Mainnet launch on 8 October on multiple blockchains including ETH, Arbitrum (ETH L2), AVAX, BSC with more to come including Terra (LUNA) and NEAR (via Aurora)…',
+      'AntiMatter, a next generation decentralized financial (DeFi) derivative platform, has announced that its Mainnet launch on 8 October on multiple blockchains including ETH, Arbitrum (ETH L2), AVAX, BSC with more to come including NEAR (via Aurora)…',
   },
   {
     imgUrl: 'yahooNewsPost.png',
@@ -33,10 +33,10 @@ const posts = [
     postBy: 'bitMex.png',
     date: 'Oct 8, 2021',
     title:
-      'AntiMatter Perpetrual Options Launches on ETH, Arbitrum, AVAX, Terra, BSC, & More',
+      'AntiMatter Perpetrual Options Launches on ETH, Arbitrum, AVAX, BSC, & More',
     buttonColor: 'blue',
     synopsis:
-      'AntiMatter, a next generation decentralized financial (DeFi) derivative platform, has announced that its Mainnet launch on 8 October on multiple blockchains including ETH, Arbitrum (ETH L2), AVAX, BSC with more to come including Terra (LUNA) and NEAR (via Aurora)…',
+      'AntiMatter, a next generation decentralized financial (DeFi) derivative platform, has announced that its Mainnet launch on 8 October on multiple blockchains including ETH, Arbitrum (ETH L2), AVAX, BSC with more to come including and NEAR (via Aurora)…',
   },
 
   {
